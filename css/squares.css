@@ -15,3 +15,8 @@
   padding: 0px;  
   box-sizing: content-box;	
 }
+
+body {
+	background-color: #fed766;
+	font-family: 'Baloo Bhai', cursive;
+}
