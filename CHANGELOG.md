@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/adammmusial/project-sketch/compare/v1.1.0...v1.2.0) (2024-03-05)
+
+
+### Features
+
+* add button to html file and link css file ([00a9175](https://github.com/adammmusial/project-sketch/commit/00a9175ad363fdec3662851ab90e81ae5c193e14))
+* add variables for calculating grid size and dimension ([940029d](https://github.com/adammmusial/project-sketch/commit/940029dcf66e8a5845e0ebfc9010eac0770e555a))
+
 ## 1.1.0 (2024-03-05)
 
 
