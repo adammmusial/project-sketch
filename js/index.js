@@ -15,5 +15,8 @@ function addDivs(numberOfDivsToCreate) {
         newDiv.style.width = gridCellDimension + 'px';
         newDiv.style.border = '1px solid black';
         }
-        
+
+    console.log(gridCellDimensions);
+    console.log('Grid successfully created!')
+    
 }
