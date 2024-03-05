@@ -25,3 +25,8 @@ body {
 	text-align: center;
 }
 
+h1{
+	text-align: center;
+	margin: 30px 20px auto;
+	text-transform: uppercase;
+}
