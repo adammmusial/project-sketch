@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/adammmusial/project-sketch/compare/v1.3.0...v1.4.0) (2024-03-05)
+
+
+### Features
+
+* add changeColor function ([46f8ff6](https://github.com/adammmusial/project-sketch/commit/46f8ff682bf10386137f266b470ee8807d5b5ed6))
+* add function clear() to clear the grid ([0f91c5e](https://github.com/adammmusial/project-sketch/commit/0f91c5ed0e1448721003b92a0120652b1290c0ee))
+
 ## [1.3.0](https://github.com/adammmusial/project-sketch/compare/v1.2.0...v1.3.0) (2024-03-05)
 
 
