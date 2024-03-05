@@ -6,3 +6,12 @@
 	padding: 0px;	
 	background-color: black;
 }
+
+.grid{
+  display: inline-block;
+  background-color: #1C86EE; 
+  border: none;
+  margin: 0px;
+  padding: 0px;  
+  box-sizing: content-box;	
+}

@@ -14,6 +14,7 @@ function addDivs(numberOfDivsToCreate) {
         newDiv.style.height = gridCellDimension + 'px';
         newDiv.style.width = gridCellDimension + 'px';
         newDiv.style.border = '1px solid black';
+        gridSize--
     }
 
     var gridCells = document.querySelectorAll('.grid')
