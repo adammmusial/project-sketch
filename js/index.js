@@ -11,5 +11,9 @@ function addDivs(numberOfDivsToCreate) {
         var newDiv = document.createElement('div');
         container.appendChild(newDiv)
         newDiv.classList.add('grid')
-    }
+        newDiv.style.height = gridCellDimension + 'px';
+        newDiv.style.width = gridCellDimension + 'px';
+        newDiv.style.border = '1px solid black';
+        }
+        
 }
