@@ -34,11 +34,11 @@ function clear() {
         while (container.hasChildNodes()) {
             container.removeChild(container.lastChild);
         }
-        addDiv(reqGridSize)
+        addDivs(reqGridSize)
     } else {
         alert('Choose a number between 1 and 100');
     }
 }
 
 button.addEventListener('click', clear);
-window.onload = addDiv(16); 
+window.onload = addDivs(16); 
