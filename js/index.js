@@ -9,8 +9,8 @@ function addDivs(numberOfDivsToCreate) {
 
     while (gridSize > 0) {
         var newDiv = document.createElement('div');
-        container.appendChild(newDiv)
-        newDiv.classList.add('grid')
+        container.appendChild(newDiv);
+        newDiv.classList.add('grid');
         newDiv.style.height = gridCellDimension + 'px';
         newDiv.style.width = gridCellDimension + 'px';
         newDiv.style.border = '1px solid black';
@@ -19,13 +19,13 @@ function addDivs(numberOfDivsToCreate) {
 
     var gridCells = document.querySelectorAll('.grid')
     gridCells.forEach(cell => cell.addEventListener('mouseenter', changeColor));
-    console.log(gridCellDimensions);
+    console.log(gridCellDimension);
     console.log('Grid successfully created!')
 
 }
 
 function changeColor() {
-    this.styl.backgroundColor = '#ff9999'
+    this.style.backgroundColor = '#ff9999'
 }
 
 function clear() {
