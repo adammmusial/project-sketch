@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/adammmusial/project-sketch/compare/v1.4.0...v1.5.0) (2024-03-07)
+
+
+### Features
+
+* add body styling ([8e90e0f](https://github.com/adammmusial/project-sketch/commit/8e90e0f15c18966348b9075fb64f26e11db9854a))
+* add button styling ([00feb24](https://github.com/adammmusial/project-sketch/commit/00feb24d6607ac0e23c9c022c6b459f77c27f0a0))
+* add container styling ([5781f90](https://github.com/adammmusial/project-sketch/commit/5781f906d181addcc8cb585299c98cef289ff95c))
+* add grid styling ([1e70eef](https://github.com/adammmusial/project-sketch/commit/1e70eef747aa2f54bae0df947f2132930d7e4198))
+* add h1 styling ([9a23791](https://github.com/adammmusial/project-sketch/commit/9a2379172389f16971bb3215e070a27c64143030))
+* add header styling ([9aa1a9d](https://github.com/adammmusial/project-sketch/commit/9aa1a9dafb3c1f26dc4ba47d8b98e6cf07a17791))
+
+
+### Bug Fixes
+
+* fix a bug which was making grid unable to use ([76fa6c8](https://github.com/adammmusial/project-sketch/commit/76fa6c8af0c3895c1f40a19ce5750197db4639f1))
+
 ## [1.4.0](https://github.com/adammmusial/project-sketch/compare/v1.3.0...v1.4.0) (2024-03-05)
 
 
