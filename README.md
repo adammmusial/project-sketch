@@ -15,7 +15,7 @@ This project replicates a fun and interactive drawing application inspired by th
 - Implementing event listeners for interactive user experiences
 
 ## Technologies Used
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40">
 
 ## Resources Used
 - **Google Fonts**: For including the 'Baloo Bhai' font in the project.
