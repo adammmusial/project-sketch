@@ -5,6 +5,8 @@
 ## About the Project
 Welcome to Sketch-A-Etch, a fun and interactive drawing application inspired by the classic Etch-a-Sketch toy. Built with HTML, CSS, and JavaScript, this project allows users to create a grid of squares and draw on them by hovering over each cell. You can customize the grid size, clear the current grid, and start fresh with a new one. It's a great way to experiment with DOM manipulation and event handling.
 
+<img width="749" alt="Screenshot 2024-05-15 at 16 20 22" src="https://github.com/adammmusial/project-sketch/assets/95377932/c978b52d-32eb-4164-b380-a10e020dfe40">
+
 ## Key learnings:
 - Creating dynamic and interactive elements with JavaScript
 - Handling user input and updating the DOM in real-time
